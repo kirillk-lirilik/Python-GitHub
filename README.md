@@ -6,7 +6,7 @@
 
 ## Как создать свой репозиторий для выполнения заданий
 
-> [Подробнее о работе с Git и Github в книге](https://pyneng.readthedocs.io/ru/latest/book/02_git_github/index.html)
+> [Подробнее о работе с Git и Github](https://pyneng.readthedocs.io/ru/latest/book/02_git_github/index.html)
 
 ### Создание репозитория на GitHub
 
